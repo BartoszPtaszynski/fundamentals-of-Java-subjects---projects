@@ -1,0 +1,515 @@
+Artystyczne Kreacje;3456789012;12:00;Zak?adki magnetyczne do ksi??ek;6;Transakcja udana;20,94 zł
+Natura w Centrum;8889997770;12:00;Kredki o??wkowe Faber Castell 24 kolor?w;7;Transakcja udana;90,93 zł
+TechnoTw�rczo��;1616161616;12:00;Zestaw gumek do mazania r?nych kszta?t?w;1;Transakcja udana;2,99 zł
+Energia Przysz�o�ci;8889990;12:00;Zeszyt w kratk? B6;3;Transakcja udana;10,47 zł
+Naturalny Smak;5678901234;12:00;Koperty b?belkowe C4;1;Transakcja udana;9,99 zł
+Ekologiczna Przysz�o��;8889990007;12:00;Koperty kopertowe C5;10;Transakcja udana;89,90 zł
+Energia Plus;4561456145;12:00;D?ugopis ?elowy z gumk?;5;Transakcja udana;12,45 zł
+Odkrywcy Technologii;6665554440;12:01;Kredki o??wkowe w drewnianej skrzynce 72 kolor?w;9;Transakcja udana;197,91 zł
+Dekoracyjne Inspiracje;2121212123;12:01;D?ugopis z regulowanym strumieniem atramentu;10;Transakcja udana;44,90 zł
+Fabryka Tw�rczo�ci;3434343432;12:01;Klej w p?ynie z aplikatorem;9;Transakcja udana;53,91 zł
+Zielone Rewolucje;8901234567;12:01;Spinacz biurowy kolorowy;8;Transakcja udana;11,92 zł
+Energia Inspiracji;101010101;12:01;Linijka 70 cm;5;Transakcja udana;14,95 zł
+Polska w Realizacji;2323232321;12:01;Teczka na rysunki A4 z uchwytem;10;Transakcja udana;64,90 zł
+TechnoRozkwit;5656565656;12:01;Zeszyt w linie B5;10;Transakcja udana;49,90 zł
+Zdrowie w Fokusa;4646464646;12:01;Zeszyt w kratk? B8;1;Transakcja udana;1,99 zł
+Dekoracyjna Magia;6565656565;12:01;Spinacz biurowy metalowy;5;Transakcja udana;7,45 zł
+Kreacyjny Ruch;7070707076;12:01;Teczka z uchwytem A3;9;Transakcja udana;71,91 zł
+Smak Kreatywno�ci;1234567891;12:02;O??wek automatyczny z gumk?;8;Transakcja udana;19,92 zł
+Progresja Technologii;123456789;12:02;Teczka z gumk? i zamek;8;Transakcja udana;71,92 zł
+Polskie Produkcje;7893789378;12:02;Zakre?lacze tekst?w w pastelowych kolorach;5;Transakcja udana;29,95 zł
+EkoStyl;2223334;12:02;Klej do biurka w kszta?cie gwiazdki;1;Transakcja udana;4,99 zł
+Sztuka Gotowania;4445556;12:02;Markery flamastre w zestawie;5;Transakcja udana;49,95 zł
+Dekoracyjna Magia;6565656565;12:02;Kredki o??wkowe w tubce 48 kolor?w;5;Transakcja udana;84,95 zł
+Kreatywne Odkrycia;6565656560;12:02;Klej do papieru w p?ynie;5;Transakcja udana;19,95 zł
+Dekoracyjne Mistrzostwo;1230123012;12:02;Spinacz biurowy z uchwytem na telefon;8;Transakcja udana;19,92 zł
+Ekologiczne Energia;3141592653;12:02;Spinacz biurowy w kszta?cie gwiazdy;9;Transakcja udana;17,91 zł
+Sztuka Kuchni;7878787878;12:02;Klej do papieru w p?ynie;10;Transakcja udana;39,90 zł
+Fabryka Marze�;4560987321;12:03;Zak?adki do ksi??ek;3;Transakcja udana;5,97 zł
+Zdrowie w Fokusa;4646464646;12:03;Kredki o??wkowe w tubce 72 kolor?w;8;Transakcja udana;159,92 zł
+Rekordy Kulinari�w;6060606060;12:03;Spinacz biurowy metalowy;6;Transakcja udana;8,94 zł
+Odkrywcy Technologii;6665554440;12:03;Klej do papieru w sztyfcie;7;Transakcja udana;17,43 zł
+Naturalny Smak;5678901234;12:03;Klej w sztyfcie Pritt;1;Transakcja udana;3,49 zł
+Polskie Wizje Biznesu;5556667774;12:03;Kredki o??wkowe dla dzieci 48 kolor?w;7;Transakcja udana;83,93 zł
+Rekordy Ekonomii;9990001118;12:04;Kalendarz biurkowy z notatkami i przypinaczami;9;Transakcja udana;98,91 zł
+Natura w Ruchu;1234567890;12:04;Zestaw kredek o??wkowych w drewnianej skrzynce;4;Transakcja udana;39,96 zł
+Energia Inspiracji;101010101;12:04;Zeszyt w kratk? B6;8;Transakcja udana;27,92 zł
+Barwy Ekologii;8989898987;12:04;Linijka 20 cm;4;Transakcja udana;5,96 zł
+Natura w Centrum;8889997770;12:04;Zestaw kolorowych gumek do mazania;10;Transakcja udana;39,90 zł
+Fabryka Dzia�a�;2727272727;12:04;Zak?adki do ksi??ek z zakre?laczami;4;Transakcja udana;15,96 zł
+Smak Kreatywno�ci;1234567891;12:04;Kredki o??wkowe w drewnianej skrzynce 72 kolor?w;2;Transakcja udana;43,98 zł
+Energia Inspiracji;101010101;12:05;Kredki o??wkowe kolorowe 36 kolor?w;6;Transakcja udana;89,94 zł
+Smakowita Pasja;1717171717;12:05;Kredki o??wkowe Faber Castell 24 kolor?w;4;Transakcja udana;51,96 zł
+Kreatywny Malarz;7778889;12:05;Spinacz biurowy w kszta?cie gwiazdy;7;Transakcja udana;13,93 zł
+Smakowita Pasja;1717171717;12:06;Markery do tablicy sucho?cieralnej;10;Transakcja udana;74,90 zł
+Barwy Technologii;8080808080;12:06;D?ugopis kulkowy BIC Cristal;6;Transakcja udana;8,94 zł
+Inwestycje M�odo�ci;1112223;12:06;Zakre?lacze tekstu w neonowych kolorach;6;Transakcja udana;38,94 zł
+Architektoniczne Nowo�ci;8989898989;12:06;Linijka 10 cm z uchwytem;9;Transakcja udana;26,91 zł
+Dekoracyjne Mistrzostwo;1230123012;12:06;Kalendarz ?cienny z kieszonkami na notatki;1;Transakcja udana;9,99 zł
+Natura w Ruchu;1234567890;12:06;Bloczek samoprzylepny w spiralce;3;Transakcja udana;19,47 zł
+Polska Si�a Biznesu;9191919191;12:06;Zeszyt w kratk? B6;7;Transakcja udana;24,43 zł
+Sztuka Gotowania;4445556;12:06;Linijka 15 cm;9;Transakcja udana;13,41 zł
+TechnoVision;3334445;12:06;Podk?adki biurkowe z kalendarzem;9;Transakcja udana;49,41 zł
+Rekordy Kulinari�w;6060606060;12:06;Kalkulator biurowy;5;Transakcja udana;64,95 zł
+Natura w Ruchu;1234567890;12:07;Kalkulator biurowy;4;Transakcja udana;51,96 zł
+Kreacja w Marketingu;7070707070;12:07;Zestaw notes?w samoprzylepnych w kszta?cie zwierz?t;5;Transakcja udana;37,45 zł
+Ekologiczne Rozwi�zania;5050505050;12:07;Klej w ta?mie;8;Transakcja udana;27,92 zł
+Zielone Rewolucje;8901234567;12:07;Zeszyt w kratk? A8;10;Transakcja udana;14,90 zł
+Architektura Inspiruj�ca;9998887770;12:07;Teczka na dokumenty w kolorze;1;Transakcja udana;7,49 zł
+Inwestycje Przysz�o�ci;2929292929;12:07;Linijka 40 cm;7;Transakcja udana;17,43 zł
+Elite Budownictwo;2345678901;12:08;Rozsuwane kredki o??wkowe 36 kolor?w;3;Transakcja udana;44,97 zł
+Naukowe Odkrycia;3333333333;12:08;Koperty kopertowe C5;6;Transakcja udana;53,94 zł
+Energia w Praktyce;7878787878;12:08;Spinacz biurowy kolorowy;8;Transakcja udana;11,92 zł
+Produkty z Pasj�;1010101010;12:08;Linijka 70 cm;9;Transakcja udana;26,91 zł
+Fabryka Dzia�a�;2727272727;12:08;Linijka 40 cm;1;Transakcja udana;2,49 zł
+S�odkie Rozwi�zania;5055555555;12:09;Koperty bia?e C5;7;Transakcja udana;52,43 zł
+Polska Otwarto��;1212121212;12:09;Koperty kopertowe C6;9;Transakcja udana;53,91 zł
+Przygoda na Horyzoncie;9876543201;12:09;Bloczek samoprzylepny w r?nych rozmiarach;10;Transakcja udana;49,90 zł
+Energia Ekologiczna;9876543219;12:09;Podk?adka biurkowa z konwertem;10;Transakcja udana;59,90 zł
+Dekoracje z Wyobra�ni�;7778889996;12:09;Rozsuwane kredki o??wkowe 36 kolor?w;4;Transakcja udana;59,96 zł
+Przygoda w Polsce;6767676767;12:09;Notes samoprzylepny PostIt 3x3 cale;1;Transakcja udana;5,99 zł
+Inwestycje Innowacyjne;1414141414;12:09;Kredki o??wkowe dla dzieci 24 kolor?w;3;Transakcja udana;26,97 zł
+Produkty Polskiej Ziemi;9990001;12:09;Teczka z uchwytem A5;9;Transakcja udana;53,91 zł
+Kreatywne Rozwi�zania;7890123456;12:09;Teczka z gumk? i zamek;2;Transakcja udana;17,98 zł
+Rekordy Polski;9595959595;12:10;Kalendarz ksi??kowy z zak?adkami;3;Transakcja udana;25,47 zł
+Innowacje Biznesowe;2020202021;12:10;Zestaw notes?w samoprzylepnych w kszta?cie zwierz?t;5;Transakcja udana;37,45 zł
+Polskie Inwestycje;9090909090;12:10;Kalkulator biurowy;1;Transakcja udana;12,99 zł
+Energia Zielona;2222222222;12:11;Kalendarz ksi??kowy z zak?adkami;2;Transakcja udana;16,98 zł
+Zielone Rewolucje;8901234567;12:11;Kredki o??wkowe w tubce 48 kolor?w;3;Transakcja udana;50,97 zł
+Fabryka Inspiracji;3434343434;12:11;Spinacz biurowy metalowy;1;Transakcja udana;1,49 zł
+Stylowa Dekoracja;1029384756;12:11;Teczka z gumk? i zamek;6;Transakcja udana;53,94 zł
+Kolorowa Energia;8080808087;12:11;Klej cyjanoakrylowy do biurka;6;Transakcja udana;29,94 zł
+Rekordy Ekonomii;9990001118;12:11;Linijka 80 cm;10;Transakcja udana;34,90 zł
+Architektoniczne Nowo�ci;8989898989;12:11;Zakre?lacze tekst?w w pastelowych kolorach;6;Transakcja udana;35,94 zł
+Wizje Technologiczne;5432109871;12:11;Linijka 40 cm;2;Transakcja udana;4,98 zł
+Marzenia w Realizacji;1313131313;12:11;Teczka z uchwytem A5;9;Transakcja udana;53,91 zł
+Artystyczny Start;6543210987;12:12;Bloczek samoprzylepny z zak?adkami;7;Transakcja udana;41,93 zł
+Kolorowe �wiat�o;9990001110;12:12;Teczka z gumk? na dokumenty;6;Transakcja udana;41,94 zł
+Inwestycje Future;2468135790;12:12;Klej w p?ynie z aplikatorem;8;Transakcja udana;47,92 zł
+Elite Budownictwo;2345678901;12:13;Linijka 20 cm;2;Transakcja udana;2,98 zł
+Innowacje w Praktyce;4545454543;12:13;Kredki o??wkowe Faber Castell 24 kolor?w;10;Transakcja nieudana;0,00 zł
+EkoHabitat;3030303030;12:13;Markery permanentne w zestawie;1;Transakcja udana;8,49 zł
+Polskie Odkrycia Kulinarne;1111111111;12:13;Zeszyt w kratk? B6;7;Transakcja nieudana;0,00 zł
+Odkrywcy Natury;2323232320;12:13;D?ugopis ?elowy z gumk?;1;Transakcja udana;2,49 zł
+Produkty z Pasj�;1010101010;12:13;Rozsuwane kredki o??wkowe 36 kolor?w;7;Transakcja udana;104,93 zł
+Polskie Dobre Wiadomo�ci;7777777777;12:13;Zestaw gumek do mazania r?nych kszta?t?w;3;Transakcja udana;8,97 zł
+Polska Si�a Biznesu;9191919191;12:13;Zestaw notes?w samoprzylepnych w kszta?cie kwiat?w;4;Transakcja udana;31,96 zł
+Marzenia w Akcji;1112223330;12:13;Teczka rozprawka z gumk?;8;Transakcja udana;39,92 zł
+Przygoda na Horyzoncie;9876543201;12:14;Kalendarz biurkowy z notatkami i przypinaczami;7;Transakcja udana;76,93 zł
+Wellness Harmonia;1010101010;12:14;Podk?adka biurkowa z podw?jnym kalendarzem;1;Transakcja udana;7,99 zł
+Barwy Technologii;8080808080;12:14;D?ugopis kulkowy z mo?liwo?ci? regulacji;3;Transakcja udana;10,47 zł
+Harmonia Cia�a i Ducha;7779998881;12:14;Spinacz biurowy z magnesem;8;Transakcja udana;15,92 zł
+Fabryka Dzia�a�;2727272727;12:14;Kredki o??wkowe dla dzieci 48 kolor?w;8;Transakcja udana;95,92 zł
+Fabryka Marze�;4560987321;12:14;D?ugopis ?elowy z gumk?;8;Transakcja udana;19,92 zł
+Polska w Realizacji;2323232321;12:14;Teczka z uchwytem A4;3;Transakcja udana;20,97 zł
+Odkrywcy Natury;2323232320;12:14;Spinacz biurowy w kszta?cie serca;5;Transakcja udana;7,45 zł
+Przygody w Polsce;9876543211;12:14;Kalendarz biurkowy z kalkulatorem;10;Transakcja udana;89,90 zł
+Energia Zielona;2222222222;12:14;Zakre?lacze tekstu w neonowych kolorach;1;Transakcja udana;6,49 zł
+Kolorowe �wiat�o;9990001110;12:14;Klej do papieru w tubce;1;Transakcja udana;4,49 zł
+Stylowa Dekoracja;1029384756;12:14;Zak?adki do ksi??ek z cytatami;7;Transakcja udana;27,93 zł
+Energia w Praktyce;7878787878;12:14;Kredki o??wkowe dla dzieci 12 kolor?w;7;Transakcja udana;48,93 zł
+Rekordy Kulinari�w;6060606060;12:15;Karteczki samoprzylepne r?nych kolor?w;1;Transakcja udana;4,99 zł
+Kreacja Marketingowa;5554443332;12:15;Zestaw kredek o??wkowych w drewnianej skrzynce;8;Transakcja udana;79,92 zł
+Wsp�czesna Architektura;2323232323;12:15;Zeszyt w linie B7;9;Transakcja udana;35,91 zł
+G�rskie Przygody;9876543210;12:15;Zestaw marker?w kolorowych Stabilo;8;Transakcja udana;71,92 zł
+Kreatywne Rozwi�zania;7890123456;12:15;Klej do papieru w tubce;4;Transakcja udana;17,96 zł
+Dekoracje z Wyobra�ni�;7778889996;12:15;Kalkulator biurowy;9;Transakcja udana;116,91 zł
+Harmonia Cia�a i Ducha;7779998881;12:15;Koperty bia?e C4;10;Transakcja udana;69,90 zł
+Architektoniczne Marzenia;7777777777;12:15;Zak?adki do ksi??ek;3;Transakcja udana;5,97 zł
+Energia Przysz�o�ci;8889990;12:15;Klej cyjanoakrylowy do biurka;4;Transakcja udana;19,96 zł
+Stylowa Dekoracja;1029384756;12:15;Kredki o??wkowe w tubce 96 kolor?w;9;Transakcja udana;224,91 zł
+Marzenia w Akcji;1112223330;12:15;Teczka z uchwytem A4;9;Transakcja udana;62,91 zł
+Ekspedycje G�rskie;2121212121;12:15;Klej w p?ynie do papieru;8;Transakcja udana;31,92 zł
+Architekci Nowej Ery;2223334441;12:15;Klej w p?ynie z aplikatorem;3;Transakcja udana;17,97 zł
+Polskie Rekordy;2718281828;12:15;Linijka 70 cm;8;Transakcja nieudana;0,00 zł
+Zdrowie w Centrum;6767676765;12:15;Zeszyt w kratk? B4;4;Transakcja udana;21,96 zł
+Zdrowie w Centrum;6767676765;12:16;Zak?adki do ksi??ek z ilustracjami;4;Transakcja udana;19,96 zł
+Produkty z Polski;1231231230;12:16;D?ugopis kulkowy z kszta?tem zwierz?t;5;Transakcja udana;17,45 zł
+TechnoLiderzy;6969696969;12:16;Kalendarz biurkowy z kalkulatorem;10;Transakcja udana;89,90 zł
+Przygoda w Pracy;6666666666;12:16;Linijka 10 cm;2;Transakcja udana;1,98 zł
+Inspiracje Artystyczne;4445556663;12:17;Spinacz biurowy z uchwytem na kubek;2;Transakcja udana;4,98 zł
+Polska Si�a Biznesu;9191919191;12:17;Podk?adki pod mysz z nadrukiem;4;Transakcja udana;23,96 zł
+Zdrowie w Fokusa;4646464646;12:17;Spinacz biurowy z uchwytem na kubek;2;Transakcja udana;4,98 zł
+EkoHabitat;3030303030;12:17;D?ugopis kulkowy w metalowej obudowie;9;Transakcja udana;35,91 zł
+Progresja Technologii;123456789;12:18;Kalendarz ?cienny z kieszonkami na notatki;3;Transakcja udana;29,97 zł
+Smakowita Pasja;1717171717;12:18;Spinacz biurowy kolorowy;8;Transakcja nieudana;0,00 zł
+Architekci Zr�wnowa�onego Rozwoju;5656565654;12:18;D?ugopis ?elowy z wymiennym wk?adem;6;Transakcja udana;35,94 zł
+Zdrowie w Centrum;6767676765;12:18;Linijka 30 cm;1;Transakcja udana;1,99 zł
+Polskie Rekordy;2718281828;12:18;Spinacz biurowy plastikowy;9;Transakcja udana;8,91 zł
+Sztuka Smaku;7778889990;12:18;Bloczek samoprzylepny z zak?adkami;1;Transakcja udana;5,99 zł
+Smak Kreatywno�ci;1234567891;12:19;Zestaw o??wk?w kolorowych dla dzieci;5;Transakcja udana;39,95 zł
+TechnoRozw�j;1112223334;12:19;Zestaw kredkowych o??wk?w w etui;6;Transakcja udana;41,94 zł
+Ekologiczne Domy;7878787870;12:19;Podk?adki biurkowe z kalendarzem;9;Transakcja udana;49,41 zł
+Rekordy Polski;9595959595;12:19;Zeszyt w linie B5;9;Transakcja udana;44,91 zł
+Polskie Dziedzictwo;1818181818;12:19;Teczka z gumk? A5;7;Transakcja udana;45,43 zł
+Fabryka Inspiracji;3434343434;12:19;Teczka ofertowa A4;2;Transakcja udana;5,98 zł
+Odkrywcy Technologii;6665554440;12:19;Zeszyt w linie A5;9;Transakcja udana;44,91 zł
+Kreacja i Sztuka;7878787876;12:20;Linijka 50 cm;9;Transakcja udana;22,41 zł
+Ekologiczne Energia;3141592653;12:20;Zestaw kredek o??wkowych w drewnianej skrzynce;5;Transakcja udana;49,95 zł
+TechnoRozw�j;1112223334;12:20;Klej do papieru w sztyfcie;1;Transakcja udana;2,49 zł
+Rekordy Ekonomii;9990001118;12:20;Teczka z gumk? A3;1;Transakcja udana;9,99 zł
+Kreatywny Malarz;7778889;12:20;Klej w p?ynie z aplikatorem;7;Transakcja nieudana;0,00 zł
+Energia w Akcji;6969696960;12:20;Klej do papieru w tubce;4;Transakcja udana;9,96 zł
+Sztuka Kulinarne;9090909090;12:20;Koperty bia?e C4;3;Transakcja udana;20,97 zł
+Harmonia Cia�a i Ducha;7779998881;12:20;Kredki o??wkowe w tubce 48 kolor?w;4;Transakcja udana;67,96 zł
+Kreacja w Biznesie;6667778;12:20;Zestaw o??wk?w kolorowych dla dzieci;5;Transakcja udana;39,95 zł
+Inwestycje Kreatywne;5555555550;12:20;Linijka 50 cm;3;Transakcja udana;7,47 zł
+Dekoracje z Wyobra�ni�;7778889996;12:20;Linijka 70 cm;3;Transakcja udana;8,97 zł
+Przygoda na Horyzoncie;9876543201;12:21;D?ugopis ?elowy Pilot G2;4;Transakcja udana;13,96 zł
+Natura Inspiruje;1990199019;12:21;Markery do tablicy sucho?cieralnej;2;Transakcja udana;14,98 zł
+Energia w Akcji;6969696960;12:21;Zeszyt w kratk? B5;3;Transakcja udana;13,47 zł
+Artystyczne Inspiracje;1212121212;12:21;Koperty kopertowe C5;3;Transakcja udana;26,97 zł
+Ekologiczne Rozwi�zania;5050505050;12:21;Podk?adki biurkowe z kalendarzem;9;Transakcja nieudana;0,00 zł
+Dom w Zgodzie z Natur�;1515151515;12:21;Kredki o??wkowe w tubce 12 kolor?w;6;Transakcja udana;32,94 zł
+Energia Odnawialna;5050505050;12:21;Teczka z gumk? na dokumenty;9;Transakcja udana;62,91 zł
+Polskie Dziedzictwo;1818181818;12:21;Koperty kopertowe C6;8;Transakcja udana;47,92 zł
+TechnoRozw�j;1112223334;12:21;Linijka elastyczna 60 cm;2;Transakcja udana;5,98 zł
+Przygody w Naturze;6667778885;12:22;Kredki o??wkowe Faber Castell 24 kolor?w;9;Transakcja udana;116,91 zł
+Kreatywne Odkrycia;6565656560;12:22;Klej do papieru w tubce;9;Transakcja udana;40,41 zł
+Zdrowie w Centrum;6767676765;12:22;Kalendarz ksi??kowy z zak?adkami;3;Transakcja udana;25,47 zł
+EkoStyl;2223334;12:22;Koperty kopertowe C6;4;Transakcja udana;23,96 zł
+Dekoracje z Wyobra�ni�;7778889996;12:23;Notes A6 w spirali;9;Transakcja udana;35,91 zł
+Ekologiczne Rozwi�zania;5050505050;12:23;Kredki o??wkowe w tubce 72 kolor?w;6;Transakcja udana;119,94 zł
+Kreacyjny Biznes;1919191919;12:23;Linijka 5 cm;10;Transakcja udana;9,90 zł
+Fabryka Dzia�a�;2727272727;12:23;Zeszyt w kratk? B5;10;Transakcja udana;44,90 zł
+Smak Kreatywno�ci;1234567891;12:23;Markery do tablicy sucho?cieralnej w zestawie;3;Transakcja udana;31,47 zł
+Polskie Produkcje;7893789378;12:23;Zestaw gumek do mazania r?nych kszta?t?w;10;Transakcja udana;29,90 zł
+Polskie Dziedzictwo Kulinarnego;6060606065;12:23;Zak?adki do ksi??ek;8;Transakcja udana;15,92 zł
+Naturalny Smak;5678901234;12:23;Podk?adki biurkowe z kalendarzem;4;Transakcja nieudana;0,00 zł
+Dom w Zgodzie z Natur�;1515151515;12:23;D?ugopis ?elowy Zebra Sarasa;3;Transakcja udana;7,47 zł
+Kreacja Marketingowa;5554443332;12:23;Koperty bia?e C4;6;Transakcja udana;41,94 zł
+Naukowe Odkrycia;3333333333;12:23;Kredki o??wkowe Faber Castell 24 kolor?w;1;Transakcja nieudana;0,00 zł
+Odkrywcy Technologii;6665554440;12:23;Klej do papieru w tubce;7;Transakcja udana;17,43 zł
+Produkty z Pasj�;1010101010;12:23;Klej do papieru w tubce;1;Transakcja udana;2,49 zł
+Artystyczne Kreacje;3456789012;12:23;Klej do papieru w tubce;2;Transakcja udana;4,98 zł
+Kolorowe �wiat�o;9990001110;12:23;Podk?adka biurkowa z konwertem;8;Transakcja udana;47,92 zł
+Rekordy Polski;9595959595;12:24;Spinacz biurowy plastikowy;5;Transakcja udana;4,95 zł
+Barwy Ekologii;8989898987;12:24;Markery permanentne w r?nych rozmiarach;10;Transakcja udana;69,90 zł
+Architektoniczne Marzenia;7777777777;12:24;Zeszyt w kratk? A5;8;Transakcja udana;27,92 zł
+Wellness Harmonia;1010101010;12:25;Spinacz biurowy w kszta?cie gwiazdy;3;Transakcja udana;5,97 zł
+Natura Inspiruje;1990199019;12:25;Zeszyt w kratk? A8;3;Transakcja udana;4,47 zł
+Polskie Rekordy;2718281828;12:25;Podk?adka biurkowa z kalkulatorami;7;Transakcja udana;48,93 zł
+Smakowita Pasja;1717171717;12:25;Kredki o??wkowe dla dzieci 24 kolor?w;6;Transakcja udana;53,94 zł
+Marzenia w Realizacji;1313131313;12:25;Zestaw notes?w samoprzylepnych w kszta?cie kwiat?w;9;Transakcja udana;71,91 zł
+Ekologiczny Dom;3030303032;12:25;D?ugopis kulkowy z gumk?;7;Transakcja udana;13,93 zł
+Nowoczesna Architektura;5432109876;12:25;Linijka 5 cm;4;Transakcja udana;3,96 zł
+Naukowe Odkrycia;3333333333;12:25;Zak?adki magnetyczne do ksi??ek;7;Transakcja udana;24,43 zł
+Energia Odnawialna;5050505050;12:25;Kredki o??wkowe w tubce 12 kolor?w;1;Transakcja udana;5,49 zł
+Stylowa Dekoracja;1029384756;12:25;Zak?adki magnetyczne do ksi??ek;4;Transakcja udana;13,96 zł
+Smak Kreatywno�ci;1234567891;12:25;D?ugopis ?elowy Pentel EnerGel;5;Transakcja udana;14,95 zł
+Innowacje Biznesowe;2020202021;12:25;Kalendarz ?cienny na rok 2024 z obrazkami;4;Transakcja udana;39,96 zł
+Produkty z Polski;1231231230;12:25;Zakre?lacze tekst?w w pastelowych kolorach;3;Transakcja udana;17,97 zł
+Barwy Technologii;1111111111;12:25;Koperty bia?e C4;9;Transakcja nieudana;0,00 zł
+Sztuka Gotowania;4445556;12:25;D?ugopis kulkowy z kszta?tem zwierz?t;5;Transakcja udana;17,45 zł
+Kolorowe �wiat�o;9990001110;12:26;Zestaw kolorowych gumek do mazania;8;Transakcja udana;31,92 zł
+Fabryka Marze�;4560987321;12:26;Kredki o??wkowe w tubce 48 kolor?w;3;Transakcja udana;50,97 zł
+Innowacyjne Odkrycia;1122334455;12:26;Zestaw kolorowych gumek do mazania;3;Transakcja nieudana;0,00 zł
+Odkrywcy Technologii;6665554440;12:26;Linijka 50 cm;2;Transakcja udana;4,98 zł
+Energia Zielona;2222222222;12:26;Klej do papieru w sztyfcie;4;Transakcja udana;9,96 zł
+Polskie Dziedzictwo;1818181818;12:26;Spinacz biurowy metalowy;5;Transakcja udana;7,45 zł
+Smakowita Pasja;1717171717;12:26;Zestaw kredkowych o??wk?w w metalowej skrzynce;6;Transakcja udana;77,94 zł
+TechnoRozkwit;5656565656;12:26;Spinacz biurowy z uchwytem na kubek;6;Transakcja udana;14,94 zł
+Kreatywne Odkrycia;6565656560;12:26;No?yczki biurowe;2;Transakcja udana;6,98 zł
+Fabryka Tw�rczo�ci;3434343432;12:27;Zestaw kredkowych o??wk?w do rysowania;1;Transakcja udana;9,99 zł
+Produkty Polskiej Ziemi;9990001;12:27;Spinacz biurowy z uchwytem na kubek;3;Transakcja udana;7,47 zł
+Sztuka Kulinarne;9090909090;12:27;Markery do tablicy sucho?cieralnej;6;Transakcja udana;44,94 zł
+Sztuka Gotowania;4445556;12:27;No?yczki biurowe;10;Transakcja udana;34,90 zł
+Dekoracyjna Magia;6565656565;12:28;Markery permanentne w r?nych rozmiarach;2;Transakcja udana;13,98 zł
+Kreacja w Marketingu;7070707070;12:28;D?ugopis ?elowy UniBall Signo;1;Transakcja udana;2,99 zł
+Sztuka Kulinarne;5050505054;12:28;Koperty b?belkowe C4;5;Transakcja udana;49,95 zł
+TechnoRozw�j;1112223334;12:28;Zak?adki do ksi??ek z cytatami;9;Transakcja udana;35,91 zł
+Kreacja i Marketing;8888888888;12:28;Zakre?lacze tekst?w w pastelowych kolorach;10;Transakcja udana;54,90 zł
+Polskie Artyku�y;2020202020;12:28;D?ugopis kulkowy Paper Mate;6;Transakcja udana;11,94 zł
+Harmonia w Pracy;7878787878;12:28;Kalendarz biurkowy z notatkami;2;Transakcja udana;14,98 zł
+Polskie Odkrycia Kulinarne;5556667;12:28;Zeszyt w linie B5;5;Transakcja nieudana;0,00 zł
+TechnoMedia;4567890123;12:29;Teczka rozprawka z gumk?;4;Transakcja udana;19,96 zł
+Fabryka Inspiracji;3434343434;12:29;Teczka z gumk? A3;8;Transakcja udana;79,92 zł
+Wsp�czesna Architektura;2323232323;12:29;Teczka na rysunki formatu A2;1;Transakcja udana;10,99 zł
+Energia Odnawialna;5050505050;12:29;Klej cyjanoakrylowy do biurka;6;Transakcja udana;29,94 zł
+Kreacja i Marketing;8888888888;12:29;Zeszyt w kratk? B7;9;Transakcja udana;26,91 zł
+Polskie Artyku�y;2020202020;12:29;Linijka 50 cm;10;Transakcja nieudana;0,00 zł
+S�odkie Rozwi�zania;5055555555;12:29;Koperty kopertowe C5;5;Transakcja nieudana;0,00 zł
+Kreacja w Marketingu;987654321;12:29;Zestaw kredek o??wkowych w drewnianej skrzynce;4;Transakcja nieudana;0,00 zł
+Architektura Nowoczesna;2225558880;12:29;Zakre?lacze tekst?w w pastelowych kolorach;6;Transakcja udana;32,94 zł
+Harmonia Zdrowia;9871234560;12:29;Zeszyt w kratk? B8;2;Transakcja udana;3,98 zł
+Strefa Zdrowego �ycia;8888888888;12:29;Kredki o??wkowe dla dzieci 48 kolor?w;7;Transakcja nieudana;0,00 zł
+Sztuka Kulinarne;5050505054;12:29;Teczka z gumk? A3;5;Transakcja udana;49,95 zł
+Ekologiczna Przysz�o��;8889990007;12:29;Zakre?lacz tekstu w r?nych kolorach;6;Transakcja udana;14,94 zł
+Magia Kolor�w;9012345678;12:30;Rozsuwane kredki o??wkowe 36 kolor?w;2;Transakcja udana;29,98 zł
+Energia Inspiracji;101010101;12:30;Linijka 10 cm;3;Transakcja udana;2,97 zł
+Polska Przysz�o��;5555555555;12:31;Teczka z gumk? A5;9;Transakcja udana;58,41 zł
+Strefa Zdrowia;3334445552;12:31;Teczka z uchwytem A4;4;Transakcja udana;27,96 zł
+Kreacyjny Biznes;1919191919;12:31;Koperty kopertowe C6;5;Transakcja udana;29,95 zł
+Inwestycje Future;2468135790;12:31;Linijka 90 cm;3;Transakcja udana;11,97 zł
+Wizje Technologiczne;5432109871;12:31;Koperty kopertowe C6;1;Transakcja udana;5,99 zł
+Rekordy Ekonomii;9990001118;12:32;Linijka 40 cm;2;Transakcja udana;4,98 zł
+S�odkie Rozwi�zania;5055555555;12:32;Koperty kopertowe C5;1;Transakcja udana;8,99 zł
+Polska Moc Rekord�w;9090909098;12:32;Teczka z gumk? i zamek;1;Transakcja udana;8,99 zł
+Polskie Dziedzictwo Kulinarnego;6060606065;12:32;Zestaw notes?w samoprzylepnych w kszta?cie kwiat?w;2;Transakcja udana;15,98 zł
+Inwestycje Kreatywne;5555555550;12:32;Zestaw gumek do mazania r?nych kszta?t?w;10;Transakcja nieudana;0,00 zł
+Produkty z Polski;1231231230;12:32;Markery permanentne w zestawie;7;Transakcja udana;59,43 zł
+Inwestycje M�odo�ci;1112223;12:32;D?ugopis kulkowy z mo?liwo?ci? regulacji;10;Transakcja udana;34,90 zł
+Przygody w Naturze;6667778885;12:33;Zeszyt w kratk? B4;4;Transakcja udana;21,96 zł
+Barwy Kreatywno�ci;2020202020;12:33;Kredki o??wkowe w drewnianej skrzynce 72 kolor?w;10;Transakcja nieudana;0,00 zł
+Elite Budownictwo;2345678901;12:33;Zak?adki do ksi??ek z zakre?laczami;2;Transakcja udana;7,98 zł
+Fabryka Marze�;4560987321;12:33;Kalkulator biurowy;3;Transakcja nieudana;0,00 zł
+Kolorowe �wiat�o;9990001110;12:33;Teczka z gumk? A3;2;Transakcja udana;19,98 zł
+Inwestycje Kreatywne;5555555550;12:33;Kalendarz ?cienny na rok 2024 z obrazkami;6;Transakcja udana;59,94 zł
+Przygoda w Dzia�aniu;8989989898;12:33;D?ugopis ?elowy Zebra Sarasa;8;Transakcja udana;19,92 zł
+Polskie Rekordy;2718281828;12:33;Teczka na rysunki formatu A2;10;Transakcja udana;109,90 zł
+Rekordy Kulinari�w;6060606060;12:33;Kalendarz biurkowy z notatkami i przypinaczami;4;Transakcja udana;43,96 zł
+Wsp�czesna Architektura;2323232323;12:33;Linijka 5 cm;10;Transakcja nieudana;0,00 zł
+Zielone Rewolucje;8901234567;12:33;D?ugopis ?elowy Sakura Gelly Roll;7;Transakcja udana;20,93 zł
+Sztuka Miesza�cza;4444444444;12:33;Kredki o??wkowe w tubce 24 kolor?w;8;Transakcja udana;67,92 zł
+Marzenia w Akcji;1112223330;12:33;Linijka 5 cm;7;Transakcja nieudana;0,00 zł
+G�rskie Przygody;9876543210;12:33;D?ugopis ?elowy Sakura Gelly Roll;6;Transakcja udana;17,94 zł
+Inwestycje Future;2468135790;12:33;Spinacz biurowy plastikowy;10;Transakcja nieudana;0,00 zł
+Sztuka Kuchni;7878787878;12:34;Teczka z gumk? A5;10;Transakcja nieudana;0,00 zł
+Kreacja w Marketingu;7070707070;12:34;Zeszyt w kratk? B5;9;Transakcja nieudana;0,00 zł
+Fabryka Inspiracji;3434343434;12:34;Klej do papieru w tubce;2;Transakcja udana;8,98 zł
+Barwy Ekologii;8989898987;12:34;Kredki o??wkowe w tubce 48 kolor?w;2;Transakcja udana;33,98 zł
+Polskie Produkcje;7893789378;12:34;Zeszyt w linie B5;5;Transakcja nieudana;0,00 zł
+Sztuka Kulinarne;5050505054;12:34;Spinacz biurowy w kszta?cie serca;3;Transakcja udana;4,47 zł
+Polskie Odkrycia Kulinarne;5556667;12:34;Kalendarz ksi??kowy na rok 2024;4;Transakcja udana;27,96 zł
+Energia w Akcji;4343434343;12:34;Kredki o??wkowe w tubce 12 kolor?w;1;Transakcja udana;5,49 zł
+Architektoniczne Nowo�ci;8989898989;12:34;Klej w p?ynie z aplikatorem;5;Transakcja nieudana;0,00 zł
+Barwy Technologii;1111111111;12:34;Rozsuwane kredki o??wkowe 36 kolor?w;8;Transakcja nieudana;0,00 zł
+Fabryka Inspiracji;3434343434;12:35;Zestaw gumek do mazania r?nych kszta?t?w;7;Transakcja nieudana;0,00 zł
+Polska Moc Rekord�w;9090909098;12:35;D?ugopis kulkowy Paper Mate;4;Transakcja udana;7,96 zł
+Natura w Centrum;8889997770;12:35;Zestaw notes?w samoprzylepnych w kszta?cie kwiat?w;4;Transakcja udana;31,96 zł
+Sztuka Kulinarne;9090909090;12:35;Zestaw kredkowych o??wk?w w metalowej skrzynce;6;Transakcja udana;77,94 zł
+TechnoLiderzy;6969696969;12:35;Zestaw kredkowych o??wk?w w etui;2;Transakcja udana;13,98 zł
+Produkty Ekologiczne;8181818181;12:35;Klej do papieru w tubce;2;Transakcja udana;8,98 zł
+Przygody w Naturze;3030303030;12:35;Kredki o??wkowe w tubce 12 kolor?w;3;Transakcja udana;16,47 zł
+Naturalny Smak;5678901234;12:35;Kalendarz ?cienny z kieszonkami na notatki;8;Transakcja udana;79,92 zł
+Wizje Technologiczne;5432109871;12:35;D?ugopis ?elowy UniBall Signo;8;Transakcja udana;23,92 zł
+EkoStyl;2223334;12:35;D?ugopis kulkowy Paper Mate;6;Transakcja udana;11,94 zł
+Kreacyjna Przysz�o��;1313131310;12:35;Zeszyt w kratk? B8;5;Transakcja udana;9,95 zł
+Sztuka Gotowania;4445556;12:36;Podk?adka biurkowa z podw?jnym kalendarzem;7;Transakcja udana;55,93 zł
+Energia Przysz�o�ci;8889990;12:36;Zakre?lacze tekst?w w pastelowych kolorach;3;Transakcja udana;17,97 zł
+Energia w Akcji;4343434343;12:36;Kredki o??wkowe dla dzieci 12 kolor?w;5;Transakcja udana;34,95 zł
+Polska w Realizacji;2323232321;12:36;Kredki o??wkowe w tubce 72 kolor?w;1;Transakcja udana;19,99 zł
+Architekci Nowej Ery;2223334441;12:36;Kalkulator naukowy z funkcj? graficzn?;9;Transakcja udana;206,91 zł
+Architektoniczne Marzenia;7777777777;12:37;Klej do papieru w sztyfcie;7;Transakcja udana;17,43 zł
+Produkty z Pasj�;1212121210;12:37;Notes A6 w spirali;6;Transakcja udana;23,94 zł
+Kreacja i Sztuka;7878787876;12:37;Kredki o??wkowe dla dzieci 48 kolor?w;3;Transakcja udana;35,97 zł
+Zdrowie w Centrum;6767676765;12:37;Zeszyt w kratk? B9;5;Transakcja udana;9,95 zł
+Polskie Artyku�y;2020202020;12:37;Zeszyt w linie B5;2;Transakcja nieudana;0,00 zł
+Energia w Akcji;4343434343;12:37;Spinacz biurowy z magnesem;7;Transakcja udana;13,93 zł
+Polskie Wizje Biznesu;5556667774;12:37;Linijka 5 cm;10;Transakcja nieudana;0,00 zł
+Geofizyka Polska;6789012345;12:37;Zak?adki do ksi??ek z ilustracjami;5;Transakcja udana;24,95 zł
+TechnoRozkwit;5656565656;12:38;Przybornik biurowy na d?ugopisy;3;Transakcja udana;16,47 zł
+Architekci Zmiany;5858585858;12:38;Teczka z gumk? i zamek;10;Transakcja nieudana;0,00 zł
+Przygody w Naturze;3030303030;12:38;Klej cyjanoakrylowy do papieru;10;Transakcja udana;49,90 zł
+Rekordy Polski;9595959595;12:38;D?ugopis z ?elazkiem;8;Transakcja udana;23,92 zł
+Ekspedycje G�rskie;2121212121;12:38;Kalendarz ?cienny z kieszonkami na notatki;3;Transakcja udana;29,97 zł
+Wizje Technologiczne;5432109871;12:38;Zak?adki do ksi??ek z ilustracjami;9;Transakcja udana;44,91 zł
+Polskie Rekordy;2718281828;12:38;Zeszyt w kratk? A8;8;Transakcja nieudana;0,00 zł
+Odkrywcy Natury;2323232320;12:38;Kredki o??wkowe w tubce 12 kolor?w;2;Transakcja udana;10,98 zł
+Polskie Wizje Biznesu;5556667774;12:38;Klej w p?ynie z aplikatorem;7;Transakcja nieudana;0,00 zł
+Stylowa Dekoracja;1029384756;12:38;Zestaw kredek o??wkowych w drewnianej skrzynce;2;Transakcja udana;19,98 zł
+Fabryka Tw�rczo�ci;3434343432;12:38;Kalkulator biurowy;6;Transakcja nieudana;0,00 zł
+Inwestycje Innowacyjne;1414141414;12:38;D?ugopis z ?elazkiem;8;Transakcja udana;23,92 zł
+Polska Si�a Biznesu;9191919191;12:38;Linijka 90 cm;3;Transakcja udana;11,97 zł
+Ekologiczna Kuchnia;987654320;12:38;Klej do papieru w p?ynie;8;Transakcja nieudana;0,00 zł
+Strefa Zdrowego �ycia;8888888888;12:39;Zeszyt w linie B7;4;Transakcja udana;15,96 zł
+Przygoda w Polsce;6767676767;12:39;Notes A6 w spirali;8;Transakcja nieudana;0,00 zł
+TechnoMedia;4567890123;12:39;Kalendarz biurkowy z notatkami;1;Transakcja udana;7,49 zł
+Barwy Technologii;8080808080;12:39;Bloczek samoprzylepny w spiralce;1;Transakcja udana;6,49 zł
+Produkty Polskiej Ziemi;9990001;12:39;Zestaw notes?w samoprzylepnych w kszta?cie kwiat?w;2;Transakcja nieudana;0,00 zł
+Kolorowa Energia;8080808087;12:39;Kredki o??wkowe dla dzieci 48 kolor?w;5;Transakcja nieudana;0,00 zł
+Natura w Centrum;8889997770;12:39;Zakre?lacze tekstu w neonowych kolorach;1;Transakcja udana;6,49 zł
+Marzenia w Akcji;1112223330;12:39;Zeszyt w linie A5;8;Transakcja udana;39,92 zł
+Polskie Odkrycia Kulinarne;1111111111;12:39;Linijka 100 cm;6;Transakcja udana;26,94 zł
+Kreacja i Praktyka;6565656565;12:39;Zestaw gumek do mazania r?nych kszta?t?w;5;Transakcja udana;14,95 zł
+Kreacja Marketingowa;5554443332;12:39;Zestaw kredkowych o??wk?w w metalowej skrzynce;2;Transakcja udana;25,98 zł
+Wellness Harmonia;1010101010;12:39;Klej cyjanoakrylowy do papieru;8;Transakcja udana;39,92 zł
+Innowacyjne Smaki;7878787878;12:39;Linijka 15 cm;6;Transakcja udana;8,94 zł
+Energia Inspiracji;101010101;12:39;Zestaw kredek o??wkowych w drewnianej skrzynce;9;Transakcja nieudana;0,00 zł
+Fabryka Dzia�a�;2727272727;12:39;Spinacz biurowy z uchwytem na kubek;9;Transakcja nieudana;0,00 zł
+EkoStyl;2223334;12:40;Teczka na dokumenty z uchwytem;9;Transakcja udana;67,41 zł
+Kreatywne Odkrycia;6565656560;12:40;Zeszyt w kratk? A6;9;Transakcja udana;26,91 zł
+Zdrowy Styl �ycia;2525252525;12:40;Teczka ofertowa A4;7;Transakcja udana;20,93 zł
+Innowacje Biznesowe;2020202021;12:40;Zeszyt w kratk? A6;3;Transakcja udana;8,97 zł
+Polskie Dziedzictwo;1818181818;12:40;Zeszyt w kratk? B7;1;Transakcja udana;2,99 zł
+Kreacyjny Ruch;7070707076;12:40;D?ugopis ?elowy UniBall Signo;1;Transakcja udana;2,99 zł
+Przygoda w Dzia�aniu;8989989898;12:40;Spinacz biurowy kolorowy;9;Transakcja nieudana;0,00 zł
+Fabryka Dzia�a�;2727272727;12:40;Teczka rozprawka z gumk?;5;Transakcja udana;24,95 zł
+Polska Si�a Biznesu;9191919191;12:40;Teczka z uchwytem A5;9;Transakcja nieudana;0,00 zł
+TechnoWizje;4040404043;12:40;Zak?adki do ksi??ek z zakre?laczami;6;Transakcja udana;26,94 zł
+Ekologiczne Energia;3141592653;12:40;Koperty bia?e C5;2;Transakcja udana;14,98 zł
+Strefa Zdrowego �ycia;8888888888;12:40;D?ugopis ?elowy UniBall Signo;10;Transakcja udana;29,90 zł
+Ekspedycje G�rskie;2121212121;12:40;Linijka 15 cm;6;Transakcja nieudana;0,00 zł
+Architekci Nowej Ery;2223334441;12:41;Kredki o??wkowe w tubce 12 kolor?w;1;Transakcja udana;5,49 zł
+Dom w Zgodzie z Natur�;1515151515;12:41;Linijka 80 cm;1;Transakcja udana;3,49 zł
+Natura w Centrum;8889997770;12:41;D?ugopis ?elowy z gumk?;10;Transakcja nieudana;0,00 zł
+Ekologiczna Przysz�o��;8889990007;12:41;Klej w sztyfcie Pritt;1;Transakcja udana;3,49 zł
+Polskie Odkrycia;8887776661;12:41;D?ugopis ?elowy Zebra Sarasa;6;Transakcja udana;14,94 zł
+Architekci Zr�wnowa�onego Rozwoju;5656565654;12:41;Zak?adki do ksi??ek z cytatami;2;Transakcja udana;7,98 zł
+Ekologiczne Rozwi�zania;5050505050;12:41;Notes samoprzylepny PostIt 3x3 cale;8;Transakcja udana;47,92 zł
+Stylowa Dekoracja;1029384756;12:41;Zeszyt w kratk? B7;2;Transakcja udana;5,98 zł
+Harmonia Cia�a i Ducha;7779998881;12:41;Teczka na rysunki formatu A2;7;Transakcja udana;76,93 zł
+TechnoMedia;4567890123;12:41;Zeszyt w linie A5;9;Transakcja nieudana;0,00 zł
+Polskie Produkcje;7893789378;12:41;Teczka ofertowa A4;8;Transakcja udana;23,92 zł
+Produkty z Pasj�;1010101010;12:41;Zestaw notes?w samoprzylepnych w r?nych kszta?tach;8;Transakcja udana;51,92 zł
+Dekoracje z Wyobra�ni�;7778889996;12:41;Teczka na rysunki formatu A2;5;Transakcja nieudana;0,00 zł
+Energia w Akcji;6969696960;12:41;Kredki o??wkowe w tubce 24 kolor?w;8;Transakcja udana;67,92 zł
+Kreacja i Praktyka;6565656565;12:42;Markery do tablicy sucho?cieralnej;5;Transakcja nieudana;0,00 zł
+Architektoniczne Nowo�ci;8989898989;12:42;Koperty kopertowe C5;4;Transakcja nieudana;0,00 zł
+Kreacja Marketingowa;5554443332;12:42;Zeszyt w kratk? B4;9;Transakcja udana;49,41 zł
+Natura w Centrum;8889997770;12:42;D?ugopis z regulowanym strumieniem atramentu;7;Transakcja udana;31,43 zł
+Sztuka Kulinarne;9090909090;12:42;Klej do papieru w p?ynie;1;Transakcja udana;3,99 zł
+Natura Inspiruje;1990199019;12:42;Kredki o??wkowe dla dzieci 48 kolor?w;4;Transakcja nieudana;0,00 zł
+Polskie Dziedzictwo;1818181818;12:42;Zeszyt w kratk? B5;3;Transakcja udana;13,47 zł
+Przygody w Polsce;9876543211;12:42;D?ugopis ?elowy z gumk?;6;Transakcja udana;14,94 zł
+Dekoracje z Pomys�em;2244668899;12:42;Zak?adki do ksi??ek;10;Transakcja nieudana;0,00 zł
+Kolorowe �wiat�o;9990001110;12:42;Kredki o??wkowe w tubce 12 kolor?w;3;Transakcja udana;16,47 zł
+Ekologiczny Dom;3030303032;12:42;Linijka 70 cm;5;Transakcja nieudana;0,00 zł
+Kolorowa Energia;8080808087;12:42;Markery do tablicy sucho?cieralnej;3;Transakcja nieudana;0,00 zł
+Smakowita Pasja;1717171717;12:42;Kalendarz biurkowy z notatkami i przypinaczami;10;Transakcja nieudana;0,00 zł
+Inwestycje Future;2468135790;12:43;Koperty kopertowe C5;5;Transakcja nieudana;0,00 zł
+Artystyczne Kreacje;3456789012;12:43;Podk?adka biurkowa z kieszonk? na zdj?cia;4;Transakcja udana;21,96 zł
+Naturalny Smak;5678901234;12:43;Kalendarz ?cienny z kieszonkami na notatki;4;Transakcja udana;39,96 zł
+Kolorowa Energia;8080808087;12:43;Kredki o??wkowe Faber Castell 24 kolor?w;9;Transakcja nieudana;0,00 zł
+Produkty Ekologiczne;8181818181;12:43;Markery do tablicy sucho?cieralnej;8;Transakcja nieudana;0,00 zł
+Marzenia w Realizacji;1313131313;12:43;Zeszyt w kratk? A7;3;Transakcja udana;7,47 zł
+Rekordy Polski;9595959595;12:43;Kredki o??wkowe w drewnianej skrzynce 72 kolor?w;4;Transakcja udana;87,96 zł
+Dekoracje z Wyobra�ni�;7778889996;12:43;Spinacz biurowy w kszta?cie gwiazdy;3;Transakcja nieudana;0,00 zł
+Polska Moc Rekord�w;9090909098;12:43;Zestaw o??wk?w kolorowych dla dzieci;9;Transakcja udana;71,91 zł
+TechnoVision;3334445;12:43;Linijka 80 cm;7;Transakcja udana;24,43 zł
+Wizje Technologiczne;5432109871;12:44;No?yczki biurowe;10;Transakcja nieudana;0,00 zł
+Fabryka Dzia�a�;2727272727;12:44;D?ugopis ?elowy Sakura Gelly Roll;5;Transakcja udana;14,95 zł
+TechnoWizje;4040404043;12:44;Kredki o??wkowe w tubce 24 kolor?w;8;Transakcja nieudana;0,00 zł
+Odkrywcy Natury;2323232320;12:44;Markery permanentne w r?nych rozmiarach;8;Transakcja udana;55,92 zł
+Naukowe Odkrycia;3333333333;12:44;Teczka rozprawka z gumk?;6;Transakcja nieudana;0,00 zł
+Architekci Nowej Ery;2223334441;12:44;D?ugopis kulkowy w metalowej obudowie;1;Transakcja udana;3,99 zł
+Barwy Ekologii;8989898987;12:44;Kalkulator naukowy z funkcj? graficzn?;6;Transakcja udana;137,94 zł
+Sztuka Kulinarne;9090909090;12:44;Zeszyt w kratk? A6;10;Transakcja nieudana;0,00 zł
+Odkrywcy Technologii;6665554440;12:44;Kalkulator naukowy;4;Transakcja udana;79,96 zł
+Harmonia Cia�a i Ducha;7779998881;12:44;Linijka 40 cm;1;Transakcja udana;2,49 zł
+Przygoda w Pracy;6666666666;12:44;D?ugopis ?elowy UniBall Signo;2;Transakcja nieudana;0,00 zł
+Fabryka Inspiracji;3434343434;12:44;Linijka 100 cm;8;Transakcja udana;35,92 zł
+Energia w Akcji;6969696960;12:44;Linijka 100 cm;4;Transakcja udana;17,96 zł
+EkoHabitat;3030303030;12:45;Spinacz biurowy metalowy;7;Transakcja nieudana;0,00 zł
+Polskie Dobre Wiadomo�ci;7777777777;12:45;Linijka 20 cm;4;Transakcja udana;5,96 zł
+Innowacje Biznesowe;2020202021;12:45;Kredki o??wkowe w tubce 96 kolor?w;1;Transakcja udana;24,99 zł
+Polskie Rekordy;2718281828;12:45;Kalendarz ?cienny na rok 2024;6;Transakcja udana;53,94 zł
+Barwy Technologii;1111111111;12:46;Markery do tablicy sucho?cieralnej w zestawie;1;Transakcja udana;10,49 zł
+Sztuka Kulinarne;9090909090;12:46;Koperty kopertowe C5;8;Transakcja nieudana;0,00 zł
+Kolorowe �wiat�o;9990001110;12:46;Teczka na rysunki A4 z uchwytem;3;Transakcja udana;19,47 zł
+Architekci Zmiany;5858585858;12:46;D?ugopis kulkowy w metalowej obudowie;1;Transakcja udana;3,99 zł
+Dom w Zgodzie z Natur�;1515151515;12:46;Spinacz biurowy w kszta?cie gwiazdy;8;Transakcja nieudana;0,00 zł
+Kreacja w Marketingu;987654321;12:46;Spinacz biurowy kolorowy;2;Transakcja udana;2,98 zł
+Dekoracje z Wyobra�ni�;7778889996;12:46;Kalkulator naukowy;3;Transakcja udana;59,97 zł
+Przygoda w Pracy;6666666666;12:47;Kalendarz biurkowy na rok 2024;9;Transakcja udana;71,91 zł
+Nowoczesna Architektura;5432109876;12:47;Kredki o??wkowe w tubce 96 kolor?w;6;Transakcja udana;149,94 zł
+Odkrywcy Technologii;6665554440;12:48;Klej do papieru w sztyfcie;7;Transakcja nieudana;0,00 zł
+Elite Budownictwo;2345678901;12:48;Teczka na rysunki formatu A2;8;Transakcja nieudana;0,00 zł
+Architektoniczne Nowo�ci;8989898989;12:48;Zestaw kredkowych o??wk?w w metalowej skrzynce;3;Transakcja udana;38,97 zł
+Energia Odnawialna;5050505050;12:49;Klej w sztyfcie Pritt;4;Transakcja udana;13,96 zł
+Produkty Polskiej Ziemi;9990001;12:49;Kredki o??wkowe kolorowe 36 kolor?w;8;Transakcja udana;119,92 zł
+Przygoda w Dzia�aniu;8989989898;12:49;Linijka 40 cm;3;Transakcja udana;7,47 zł
+Artystyczne Kreacje;3456789012;12:49;Zeszyt A4 w kratk?;7;Transakcja udana;41,93 zł
+Artystyczne Inspiracje;1212121212;12:49;Zakre?lacz tekstu w r?nych kolorach;7;Transakcja udana;17,43 zł
+Polskie Rekordy;2718281828;12:49;Kalkulator biurowy;3;Transakcja nieudana;0,00 zł
+Natura w Ruchu;1234567890;12:49;Linijka 5 cm;9;Transakcja nieudana;0,00 zł
+Kreacyjna Przysz�o��;1313131310;12:49;Spinacz biurowy metalowy;5;Transakcja nieudana;0,00 zł
+Innowacyjne Odkrycia;1122334455;12:49;Zak?adki do ksi??ek z ilustracjami;10;Transakcja nieudana;0,00 zł
+Fabryka Marze�;4560987321;12:49;Spinacz biurowy z magnesem;6;Transakcja nieudana;0,00 zł
+Produkty Polskiej Ziemi;9990001;12:50;Zestaw kolorowych gumek do mazania;5;Transakcja nieudana;0,00 zł
+Energia Plus;4561456145;12:50;Kredki o??wkowe w tubce 12 kolor?w;3;Transakcja udana;16,47 zł
+�wiat�o w Kolorach;9999999999;12:50;Klej do papieru w tubce;5;Transakcja udana;12,45 zł
+Smak Kreatywno�ci;1234567891;12:51;Kredki o??wkowe kolorowe 36 kolor?w;1;Transakcja udana;14,99 zł
+Polskie Artyku�y;2020202020;12:51;Notes A6 w spirali;3;Transakcja udana;11,97 zł
+Kreatywne Rozwi�zania;7890123456;12:51;Podk?adka biurkowa z kalendarzem;5;Transakcja udana;24,95 zł
+TechnoTw�rczo��;1616161616;12:51;Klej cyjanoakrylowy do biurka;7;Transakcja nieudana;0,00 zł
+Architekci Zr�wnowa�onego Rozwoju;5656565654;12:51;Klej w ta?mie;3;Transakcja udana;10,47 zł
+Sztuka Kulinarne;9090909090;12:51;Kalendarz biurkowy z notatkami i przypinaczami;4;Transakcja nieudana;0,00 zł
+Rekordy Polski;9595959595;12:51;Kalendarz ?cienny z kieszonkami na notatki;4;Transakcja nieudana;0,00 zł
+Energia w Akcji;4343434343;12:51;Zestaw kredek o??wkowych w drewnianej skrzynce;5;Transakcja nieudana;0,00 zł
+Wsp�czesna Architektura;2323232323;12:51;Przybornik biurowy na d?ugopisy;10;Transakcja udana;54,90 zł
+Progresja Technologii;123456789;12:51;Kredki o??wkowe dla dzieci 48 kolor?w;7;Transakcja nieudana;0,00 zł
+Wizje Technologiczne;5432109871;12:51;D?ugopis kulkowy z mo?liwo?ci? regulacji;2;Transakcja udana;6,98 zł
+Dekoracje z Wyobra�ni�;7778889996;12:51;Koperty bia?e C4;6;Transakcja nieudana;0,00 zł
+Elite Budownictwo;2345678901;12:51;Kalendarz ?cienny na rok 2024;1;Transakcja udana;8,99 zł
+Sztuka Smaku;7778889990;12:51;D?ugopis kulkowy w metalowej obudowie;8;Transakcja udana;31,92 zł
+Barwy Kreatywno�ci;2020202020;12:51;Przybornik biurowy na d?ugopisy;7;Transakcja udana;38,43 zł
+Harmonia Cia�a i Ducha;7779998881;12:52;D?ugopis kulkowy w metalowej obudowie;5;Transakcja nieudana;0,00 zł
+Ekologiczna Przysz�o��;8889990007;12:52;Podk?adki biurkowe z kalendarzem;5;Transakcja nieudana;0,00 zł
+Dekoracyjne Inspiracje;2121212123;12:52;D?ugopis z ?elazkiem;8;Transakcja nieudana;0,00 zł
+Fabryka Dzia�a�;2727272727;12:52;Linijka 80 cm;3;Transakcja nieudana;0,00 zł
+Barwy Technologii;8080808080;12:52;Zestaw gumek do mazania r?nych kszta?t?w;10;Transakcja nieudana;0,00 zł
+Polskie Wizje Biznesu;5556667774;12:52;Zestaw kredkowych o??wk?w do rysowania;4;Transakcja udana;39,96 zł
+Kreacja w Marketingu;987654321;12:52;Karteczki samoprzylepne r?nych kolor?w;1;Transakcja udana;4,99 zł
+Marzenia w Realizacji;1313131313;12:52;Markery do tablicy sucho?cieralnej;6;Transakcja nieudana;0,00 zł
+Przygody w Naturze;6667778885;12:52;Spinacz biurowy z magnesem;8;Transakcja nieudana;0,00 zł
+Kreacja w Marketingu;7070707070;12:52;Zak?adki do ksi??ek z cytatami;10;Transakcja nieudana;0,00 zł
+Innowacyjne Smaki;7878787878;12:52;Zeszyt w kratk? A5;10;Transakcja udana;34,90 zł
+Produkty Polskiej Marki;4343434343;12:52;Klej cyjanoakrylowy do biurka;4;Transakcja udana;19,96 zł
+Kolorowa Energia;8080808087;12:52;Zestaw marker?w kolorowych Stabilo;3;Transakcja udana;26,97 zł
+Przygody w Polsce;9876543211;12:52;Klej cyjanoakrylowy do papieru;3;Transakcja nieudana;0,00 zł
+Rekordy Polski;9595959595;12:52;Koperty b?belkowe C4;3;Transakcja udana;29,97 zł
+Naturalny Smak;5678901234;12:53;D?ugopis ?elowy z gumk?;5;Transakcja nieudana;0,00 zł
+Naukowe Odkrycia;3333333333;12:53;Bloczek samoprzylepny w r?nych rozmiarach;2;Transakcja udana;9,98 zł
+Kreacja i Sztuka;7878787876;12:53;Klej w sztyfcie z aromatem;4;Transakcja udana;17,96 zł
+S�odkie Rozwi�zania;5055555555;12:53;Teczka na dokumenty w kolorze;10;Transakcja udana;74,90 zł
+Fabryka Tw�rczo�ci;3434343432;12:53;Zeszyt w kratk? A8;1;Transakcja udana;1,49 zł
+Inwestycje Innowacyjne;1414141414;12:53;Podk?adka biurkowa z kalkulatorami;6;Transakcja udana;41,94 zł
+Dekoracyjne Inspiracje;2121212123;12:53;Zeszyt w kratk? B6;6;Transakcja nieudana;0,00 zł
+Harmonia Zdrowia;9871234560;12:53;Spinacz biurowy metalowy;1;Transakcja udana;1,49 zł
+Kolorowe �wiat�o;9990001110;12:53;Kalkulator naukowy;5;Transakcja udana;99,95 zł
+Zielone Rewolucje;8901234567;12:53;Kredki o??wkowe w tubce 72 kolor?w;3;Transakcja udana;59,97 zł
+Polskie Odkrycia Kulinarne;5556667;12:53;Teczka z uchwytem i zamkiem;2;Transakcja udana;18,98 zł
+Architektura Nowoczesna;2225558880;12:53;Kredki o??wkowe w tubce 24 kolor?w;4;Transakcja udana;33,96 zł
+Innowacyjne Smaki;7878787878;12:53;Klej do biurka w kszta?cie gwiazdki;6;Transakcja udana;29,94 zł
+Polskie Odkrycia;8887776661;12:53;Klej do papieru w tubce;4;Transakcja nieudana;0,00 zł
+Architektura Nowoczesna;2225558880;12:54;Klej do papieru w sztyfcie;1;Transakcja udana;2,49 zł
+Polska Si�a Biznesu;9191919191;12:54;Spinacz biurowy kolorowy;1;Transakcja udana;1,49 zł
+Wsp�czesna Architektura;2323232323;12:54;Notes samoprzylepny PostIt 3x3 cale;6;Transakcja udana;35,94 zł
+Artystyczne Inspiracje;1212121212;12:54;Zeszyt w linie B5;1;Transakcja udana;4,99 zł
+Przygody w Naturze;3030303030;12:54;Kalendarz ksi??kowy na rok 2024;9;Transakcja udana;62,91 zł
+Architekci Nowej Ery;2223334441;12:54;Kredki o??wkowe w tubce 96 kolor?w;7;Transakcja nieudana;0,00 zł
+Artystyczny Start;6543210987;12:54;D?ugopis ?elowy Sakura Gelly Roll;5;Transakcja nieudana;0,00 zł
+Innowacje Biznesowe;2020202021;12:54;D?ugopis kulkowy z gumk?;4;Transakcja udana;7,96 zł
+Dekoracyjne Inspiracje;2121212123;12:54;Kredki o??wkowe w tubce 24 kolor?w;8;Transakcja nieudana;0,00 zł
+Zdrowie w Fokusa;4646464646;12:54;Notes samoprzylepny PostIt 3x3 cale;3;Transakcja udana;17,97 zł
+Przygody w Naturze;6667778885;12:54;Linijka 15 cm;10;Transakcja nieudana;0,00 zł
+Sztuka Gotowania;4445556;12:54;D?ugopis kulkowy z mo?liwo?ci? regulacji;2;Transakcja udana;6,98 zł
+Inwestycje Przysz�o�ci;2929292929;12:55;Zeszyt w kratk? A6;4;Transakcja udana;11,96 zł
+Kreacja i Marketing;8888888888;12:55;Markery do tablicy sucho?cieralnej w zestawie;3;Transakcja udana;31,47 zł
+Energia Zielona;2222222222;12:55;Kredki o??wkowe dla dzieci 48 kolor?w;8;Transakcja nieudana;0,00 zł
+Natura Inspiruje;1990199019;12:56;Teczka z uchwytem i zamkiem;10;Transakcja udana;94,90 zł
+EkoStyl;2223334;12:56;Podk?adki biurkowe z kalendarzem;10;Transakcja nieudana;0,00 zł
+Produkty z Polski;1231231230;12:56;D?ugopis kulkowy BIC Cristal;3;Transakcja udana;4,47 zł
+S�odkie Rozwi�zania;5055555555;12:56;Zeszyt w kratk? A6;8;Transakcja nieudana;0,00 zł
+Kreacja Artystyczna;9999999999;12:56;Spinacz biurowy metalowy;3;Transakcja nieudana;0,00 zł
+Fabryka Tw�rczo�ci;3434343432;12:56;Zak?adki do ksi??ek;7;Transakcja nieudana;0,00 zł
+Rekordy Polski;9595959595;12:56;Koperty bia?e C5;1;Transakcja udana;7,49 zł
+Polskie Dziedzictwo;1818181818;12:56;Kalendarz biurkowy z notatkami i przypinaczami;8;Transakcja nieudana;0,00 zł
+G�rskie Przygody;9876543210;12:56;Koperty bia?e C4;5;Transakcja nieudana;0,00 zł
+Energia Odnawialna;5050505050;12:56;Linijka 40 cm;6;Transakcja nieudana;0,00 zł
+TechnoRozkwit;5656565656;12:56;Klej w ta?mie;8;Transakcja udana;27,92 zł
+Produkty z Polski;1231231230;12:57;Zeszyt w kratk? A6;3;Transakcja udana;8,97 zł
+EkoHabitat;3030303030;12:57;Markery do tablicy sucho?cieralnej;1;Transakcja udana;7,49 zł
+Architektura Nowoczesna;2225558880;12:57;Notes A6 w spirali;8;Transakcja nieudana;0,00 zł
+Polskie Odkrycia Kulinarne;1111111111;12:57;Kredki o??wkowe dla dzieci 12 kolor?w;3;Transakcja udana;20,97 zł
+Energia w Akcji;6969696960;12:58;Linijka 70 cm;1;Transakcja udana;2,99 zł
+Artystyczny Start;6543210987;12:58;Zeszyt w linie B5;3;Transakcja nieudana;0,00 zł
+Energia Ekologiczna;9876543219;12:58;Podk?adka biurkowa z kalkulatorami;1;Transakcja udana;6,99 zł
+Kreacja w Marketingu;7070707070;12:58;Zestaw kredkowych o??wk?w w metalowej skrzynce;9;Transakcja nieudana;0,00 zł
+Realizacja Marze�;1212121210;12:58;Kalkulator biurowy;10;Transakcja nieudana;0,00 zł
+Polska Otwarto��;1212121212;12:58;Podk?adki biurkowe z kalendarzem;8;Transakcja nieudana;0,00 zł
+Harmonia w Pracy;7878787878;12:58;Zeszyt w linie A5;8;Transakcja nieudana;0,00 zł
+Innowacyjne Odkrycia;1122334455;12:58;Zeszyt w linie B5;1;Transakcja nieudana;0,00 zł
+Elite Budownictwo;2345678901;12:58;Podk?adka biurkowa z kalkulatorami;5;Transakcja udana;34,95 zł
+Energia Inspiracji;101010101;12:59;Kalendarz biurkowy z notatkami i przypinaczami;2;Transakcja nieudana;0,00 zł
+Przygody w Polsce;9876543211;12:59;Linijka 50 cm;3;Transakcja udana;7,47 zł
+Energia w Akcji;6969696960;12:59;Teczka z gumk? A5;9;Transakcja nieudana;0,00 zł
+Dom w Zgodzie z Natur�;1515151515;12:59;Koperty bia?e C5;8;Transakcja udana;59,92 zł
+Inspiracje Artystyczne;4445556663;12:59;Zestaw notes?w samoprzylepnych w kszta?cie kwiat?w;9;Transakcja nieudana;0,00 zł
+Wizje Technologiczne;5432109871;12:59;Klej w ta?mie;6;Transakcja udana;20,94 zł
+Architektoniczne Nowo�ci;8989898989;12:59;Teczka z uchwytem A5;5;Transakcja nieudana;0,00 zł
+Architektura Nowoczesna;2225558880;12:59;Bloczek samoprzylepny w r?nych rozmiarach;10;Transakcja nieudana;0,00 zł
+Progresja Technologii;123456789;12:59;Zeszyt w kratk? B5;2;Transakcja udana;8,98 zł
+Barwy Technologii;8080808080;12:59;Linijka 100 cm;4;Transakcja nieudana;0,00 zł
+Polska w Realizacji;2323232321;12:59;Spinacz biurowy w kszta?cie serca;3;Transakcja udana;4,47 zł
